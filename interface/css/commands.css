@@ -1,0 +1,21 @@
+div#value_selector {
+	position: fixed;
+	z-index: 998;
+	background-color: #fff;
+	text-align: center;
+	border: 4px solid #77a;
+	border-radius: 10px;
+	padding: 5px;
+	width: 220px;
+	box-shadow: 0 0 10px rgba(119, 119, 170, 0.8);
+	display: none;
+}
+
+#value_text {
+	text-align: center;
+	border: 0;
+	border-radius: 5px;
+	box-shadow: 0 0 10px rgba(0,0,0,0.5);
+	margin: 5px 0 10px 0;
+	padding: 4px;
+}
